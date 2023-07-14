@@ -1,7 +1,7 @@
 body{
     font-size: "Oxanium", cursive;
     background-color: #000000;
-    color: #dd3d3d;
+    color: #000000;
 }
 
 body::before{
@@ -69,7 +69,7 @@ body::before{
 }
 
 .lista-de-personagens .personagem.selecionado{
-    box-shadow: 0px 0px 20px 5px #f10404;
+    box-shadow: 0px 0px 20px 5px #d40909;
 }
 
 .personagem-selecionado{
@@ -79,8 +79,8 @@ body::before{
 }
 
 .personagem-selecionado .personagem-grande{
-    width: 400px;
-    width: 400px;
+    width: 350px;
+    width: 350px;
 }
 
 .personagem-selecionado .nome-personagem{
